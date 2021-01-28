@@ -8,7 +8,7 @@ Here's the correct config:
 [Daze]  
 comment = Default connect  
 path = /  
-valid users = admin, root   
+valid users = darren_dean, admin, root   
 force user = root  
 force group = root  
 browseable = yes  
